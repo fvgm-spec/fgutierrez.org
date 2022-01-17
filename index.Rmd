@@ -1,0 +1,33 @@
+---
+title: "Felix Gutierrez"
+image: "felix.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/felixgutierrezmorales"
+  - label: GitHub
+    url: "https://github.com/fvgm-spec"
+  - label: Medium
+    url: "https://felixvidalgu.medium.com/"
+  - label: Email
+    url: "felixvidalgu@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+BA in Economics and Financial Management, I have focussed my career in Data Analysis, Data
+Visualization and Business Intelligence, with hands-on experience in exploratory data
+analysis (EDA) and data modeling.Self-taught and always willing to learn new technologies
+
+## Education
+
+**Universidad Simon Rodriguez** | Caracas, VE
+
+Bachelor of Economic Sciences -
+Financial Management | March 2000 - July 2005
+
+
+## Experience
+
+**Ballst Lane Applications** | Data Analyst/Engineer | August 2021- Present
