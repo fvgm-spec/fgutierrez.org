@@ -16,9 +16,9 @@ output:
  
 ## Bio
 
-BA in Economics and Financial Management, I have focussed my career in Data Analysis, Data
-Visualization and Business Intelligence, with hands-on experience in exploratory data
-analysis (EDA) and data modeling.Self-taught and always willing to learn new technologies
+Bachelor in Economics and Financial Management. He has focussed his career in Data Analysis, Data
+Visualization and Business Intelligence, for the last 6 years, with hands-on experience in exploratory data
+analysis (EDA) and data modeling. He is self-taught and always willing to learn new technologies,
 
 ## Education
 
@@ -27,7 +27,25 @@ analysis (EDA) and data modeling.Self-taught and always willing to learn new tec
 Bachelor of Economic Sciences -
 Financial Management | March 2000 - July 2005
 
-
 ## Experience
 
-**Ballst Lane Applications** | Data Analyst/Engineer | August 2021- Present
+[Ballst Lane Applications](https://ballastlane.com/) | Data Analyst/Engineer | August 2021- Present
+
+[Switch Software Solutions](https://switchsoftware.us/) | Data Analyst | October 2020- June 2021
+
+[Sabre](https://www.sabre.com/) | Business Intelligence Developer | September 2019- May 2021
+
+[The Hackett Group](https://www.thehackettgroup.com/) | Support Analyst | October 2015- September 2019
+
+**Areas of Expertise**
+
+* Hands-on SQL experience (4+ years)
+* Experience developing and designing Dashboards and ETL processes in QlikView, Tableau and OBIEE (3 years)
+* Manipulating data using Python libraries (+3 years)
+* Microsoft Excel advanced (8+ years)
+* Experience handling diverse file formats (csv, json, xml) and integrating them with data applications (3+ years)
+
+**Professional Skills**
+
+* Coding Languages: SQL, R and Python
+* Frameworks/Systems: JupyterLab, Visual Studio, Tableau, QlikView and OBIEE
